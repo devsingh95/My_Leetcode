@@ -8,14 +8,14 @@ Welcome — I'm starting my LeetCode problem-solving journey and documenting eve
 
 ---
 
-## ✨ Why this repo?
+##  Why this repo?
 - To transform curiosity into skill: consistent practice, clear solutions, and measured progress.
 - To build a searchable library of problems and techniques I can revisit.
 - To share patterns, trade tips, and accept constructive feedback from the community.
 
 ---
 
-## 📚 What you'll find here
+##  What you'll find here
 - Organized problem folders (by topic / difficulty)
 - Clean, commented solutions in Python / C++ / Java (where applicable)
 - Short explanations, time & space complexity, and links to the LeetCode problem
@@ -23,7 +23,7 @@ Welcome — I'm starting my LeetCode problem-solving journey and documenting eve
 
 ---
 
-## 📁 Repo structure (convention)
+##  Repo structure (convention)
 Each problem follows this layout:
 
 /{difficulty}/{LC-####_Problem-Title}/
@@ -42,7 +42,7 @@ Naming rules:
 
 ---
 
-## 🧭 How I track progress
+##  How I track progress
 I update this README or the problem folder when I solve something. Use this checklist to show momentum:
 
 - [ ] Daily streak: commit every day I solve a problem
@@ -53,7 +53,7 @@ Tip: Add a "Progress" table here later with counts (Solved / Attempted / Total).
 
 ---
 
-## 🛠️ How to run solutions
+##  How to run solutions
 Python:
 - Run a script directly:
   - python3 easy/LC-0001_Two-Sum/solution.py
@@ -66,7 +66,7 @@ If you add a testing harness, update the instructions in that problem's README.
 
 ---
 
-## ✍️ How I write a problem entry
+##  How I write a problem entry
 1. Create folder with format: {difficulty}/LC-0000_Problem-Name
 2. Add solution file(s) with clear function signature
 3. Add a README.md with:
@@ -84,7 +84,7 @@ Example README snippet (inside a problem folder):
 
 ---
 
-## 💡 Tips I follow (and share)
+##  Tips I follow (and share)
 - First, write a brute-force idea; then optimize.
 - Always reason about edge cases and complexity.
 - Name variables clearly and add short comments for tricky steps.
@@ -92,7 +92,7 @@ Example README snippet (inside a problem folder):
 
 ---
 
-## 🌱 Roadmap
+##  Roadmap
 - Week 1–2: Arrays, Strings, Hashing, Two Pointers
 - Week 3–6: Recursion, Backtracking, Stacks & Queues
 - Month 2: Trees & Graphs fundamentals
@@ -100,7 +100,7 @@ Example README snippet (inside a problem folder):
 
 ---
 
-## 🤝 Contributing & feedback
+##  Contributing & feedback
 This repo is a personal journal but contributions are welcome:
 - Improve comments or add alternative solutions (PR with description)
 - Report issues or suggest better folder naming
@@ -114,7 +114,7 @@ Suggested PR template:
 
 ---
 
-## 📬 Connect with me
+##  Connect with me
 - GitHub: https://github.com/devsingh95
 - Email: (add your contact if you want)
 
