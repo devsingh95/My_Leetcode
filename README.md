@@ -126,3 +126,15 @@ This repo is for learning; keep a license (e.g., MIT) if you plan to allow reuse
 ---
 
 Thanks for visiting — every commit moves the needle. Let's solve, learn, and get better every day. 💪
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/devsingh95/My_Leetcode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/devsingh95/My_Leetcode/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
