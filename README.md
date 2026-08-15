@@ -1,4 +1,4 @@
-# 🚀 My LeetCode Journey — devsingh95
+#  My LeetCode Journey — devsingh95
 
 [![Repo Size](https://img.shields.io/github/repo-size/devsingh95/My_Leetcode)](https://github.com/devsingh95/My_Leetcode)
 [![Languages](https://img.shields.io/github/languages/top/devsingh95/My_Leetcode)](https://github.com/devsingh95/My_Leetcode)
@@ -120,7 +120,7 @@ Suggested PR template:
 
 ---
 
-## ⚖️ License
+##  License
 This repo is for learning; keep a license (e.g., MIT) if you plan to allow reuse.
 
 ---
